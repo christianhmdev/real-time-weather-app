@@ -79,7 +79,6 @@ const currentLocationBtn = document.querySelector("[data-current-location-btn]")
 
 const errorContent = document.querySelector("[data-error-content]");
 
-
 export const updateWeather = function (lat, lon) {
     // loading.style.display = "grid";
     // container.style.overflowY="hidden";

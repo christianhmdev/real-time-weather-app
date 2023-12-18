@@ -1,8 +1,6 @@
 weatherio
 weatherio is a weather app made by codewithsadee
 
-
-
 #---------- HEADER ----------#
 
 alt = logo
@@ -17,8 +15,6 @@ London
 GB
 
 Current Location
-
-
 
 #---------- CURRENT WEATHER ----------#
 
