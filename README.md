@@ -18,10 +18,12 @@
 
 ## Description
 
-Open Weather Map provides global weather data via API, including current weather data, forecasts, nowcasts, and historical weather data. This is a web application that consumes the Open Weather Map API.
+Open Weather Map provides global weather data via API, including current weather data, forecasts, nowcasts, and historical weather data. This is a web 
+application that consumes the Open Weather Map API.
 
-API Endpoint: `https://api.openweathermap.org`
-
+```
+https://api.openweathermap.org
+```
 
 ## Technologies
 
