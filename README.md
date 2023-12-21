@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Weather Real Time With 
+  <h1>Real Time Weather App With 
     <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML5" height="20"/>
     <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS3" height="20"/>
     <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" height="20"/>
