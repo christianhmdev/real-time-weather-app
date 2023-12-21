@@ -13,18 +13,34 @@
 - [Technologies](#technologies)
 - [Configuration](#configuration)
 - [Functionalities](#functionalities)
+- [Screenshoots](#screenshoots)
 - [Credits](#credits)
 - [Developer Information](#developer-information)
 
 ## Description
 
-Open Weather Map provides global weather data via API, including current weather data, forecasts, nowcasts, and historical weather data. This is a web 
-application that consumes the Open Weather Map API.
+- This is a web app, including current weather data, forecasts, nowcasts, and historical weather data.
+- The following endpoints have been consumed:
 
 ```
-https://api.openweathermap.org
+https://api.openweathermap.org/data/2.5/weather
 ```
 
+```
+https://api.openweathermap.org/data/2.5/forecast
+```
+
+```
+https://api.openweathermap.org/data/2.5/air_pollution
+```
+
+```
+https://api.openweathermap.org/geo/1.0/reverse
+```
+
+```
+https://api.openweathermap.org/geo/1.0/direct
+```
 ## Technologies
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
@@ -51,13 +67,15 @@ git clone https://github.com/christianhmdev/weather-real-time-javascript-.git
 - Search for City
 - Responsive Design: The application is designed to be responsive, ensuring seamless functionality across different screen sizes and devices. Users can access the application from their computers, tablets, or mobile devices.
 
+
+## Screenshoots
+
 ![Weather](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702891469/weather-real-time.png)
 
 ## Credits
 
-- All the information provided by the web application comes from the Open Weather Map API.
+- All rights reserved for [openweathermap.org](https://openweathermap.org/)
 - Please ensure proper attribution when using media from external sources.
-- [![Open Weather Map](https://img.shields.io/badge/Open%20Weather%20Map-ea6e4b?logo=openweathermap&logoColor=white)](https://openweathermap.org/)
 
 ## Developer Information
 
