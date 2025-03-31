@@ -15,7 +15,6 @@
 - [Functionalities](#functionalities)
 - [Screenshoots](#screenshoots)
 - [Credits](#credits)
-- [Developer Information](#developer-information)
 
 ## Description
 
@@ -76,11 +75,3 @@ git clone https://github.com/christianhmdev/weather-real-time-javascript-.git
 
 - All rights reserved for [openweathermap.org](https://openweathermap.org/)
 - Please ensure proper attribution when using media from external sources.
-
-## Developer Information
-
-Connect with me through the following links:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/christianhuamandev/)
-- [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:christianhuamandev@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/christianhmdev/)
